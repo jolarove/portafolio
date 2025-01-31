@@ -161,4 +161,7 @@ body {
         width: 75%;
         height: auto;
     }
+    .presentacion__lista{
+        padding: 0% 10%;
+    }
 }
