@@ -83,7 +83,7 @@ body {
 
 .presentacion__lista {
     font-family: var(--fuente-montserrat);
-    font-size: 1rem;
+    font-size: 1.25rem;
     display: flex;
     flex-direction: column;
     gap: 20px;
