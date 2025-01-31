@@ -14,5 +14,3 @@
 
 ### Lauro Rodríguez
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/lauro-rodr%C3%ADguez-ab3a21198/)
-
