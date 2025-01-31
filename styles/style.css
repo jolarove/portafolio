@@ -159,5 +159,6 @@ body {
     }
     .presentacion__imagen{
         width: 75%;
+        height: auto;
     }
 }
